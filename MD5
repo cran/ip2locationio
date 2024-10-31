@@ -1,0 +1,10 @@
+dd577c4cea6f9b8a221d957a347bb8d5 *DESCRIPTION
+dd91ca44457bcddda48871be39f9379f *LICENSE
+813537c324ff190373c022b80729ed92 *NAMESPACE
+1f8ded89f9bfa545290c254bff797bc1 *R/IP2Locationio.R
+7f5aeae487b346e8b09d9bfebe40072c *man/lookup.Rd
+792921639f636676dc9cd1df065276ca *man/lookupASNByIP.Rd
+714209b9f8f958c056fda7912d0e342c *man/lookupCoordinateByIP.Rd
+ddf6dea727b4805c4de50cd67ef81e05 *man/lookupCountryByIP.Rd
+f3a400cee2cb8e4ee1656bd86897dbce *man/lookupLocationByIP.Rd
+4ca31913248d055dedeb99a94381f147 *man/setApiKey.Rd
